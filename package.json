@@ -1,0 +1,20 @@
+{
+  "name": "starting-kit",
+  "version": "0.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matheus Carnelutt",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.5",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-pug": "^3.2.0",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-sourcemaps": "^1.9.1",
+		"gulp-uglify": "^2.0.0"
+  }
+}
